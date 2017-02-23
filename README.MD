@@ -1,7 +1,17 @@
 #buscador de imagenes
 El buscador de imagenes consiste en un conjunto de scprits que en base a una consulta queneran una carpeta en una ruta especificada y descargan la cantidad de imagenes especificadas para el anterior resultado.
 
-Para ejecutar el buscador de imagenes usted debe ejecutar el script "accesador.py" con tres parametros, la consulta a realizar, la ruta donde se generará la carpeta con las imagenes y la cantidad de imagenes a descargar por la consulta.
+#Forma de uso
+	#Buscador de imagenes
 
-Ejemplo:
-		"python accesador.py gatos /home/usuario/Desktop/" 100"
+	1)Ejecute el scrip "accesador.py".
+	2)Ingrese su busqueda.
+	3)Ingrese la ruta donde se creara el directorio en el cual se descargaran las imagenes.
+	4)Ingrese cantidad de imagenes a descargar.
+
+
+	#Filtro
+
+	1)Ingrese la ruta donde estan las imagenes dentro de las cuales usted quiere reemplazar una.
+	2)Ingrese nombre de la imagen a reemplazar
+	3)Ingrese el numero de resultado que usted desea usar como reemplazo
